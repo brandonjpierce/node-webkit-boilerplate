@@ -1,0 +1,17 @@
+{
+  "name": "node-webkit-boilerplate",
+  "main": "index.html",
+  "single-instance": true,
+  "dom_storage_quota": 1024,
+  "window": {
+    "title": "Node Webkit Boilerplate",
+    "toolbar": true,
+    "frame": true,
+    "position": "center",
+    "width": 1024,
+    "height": 768,
+    "min_width": 1024,
+    "min_height": 768,
+    "resizable": true
+  }
+}
