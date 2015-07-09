@@ -1,5 +1,7 @@
 # Node Webkit Boilerplate
 
+### Note: this project was using a very early version of the old node-webkit library so please use at your own risk as a lot of things have changed since then. This repo is no longer being maintained.
+
 Get a node webkit application up and running in no time! I have included a small example with Vue.js and Browserify to get you going quickly on a highly modular and testable application.
 
 ## Application Structure
